@@ -2,7 +2,7 @@
 
 <table>
   <tr>
-    <td><img src="https://tenor.com/view/coding-typing-big-brained-busy-sweating-gif-17808553"></td>
+    <td><img src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif"></td>
     <td>
       <ul>
         <li>Hey there, I am <strong>Tahanima Chowdhury</strong></li>
