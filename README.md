@@ -1,13 +1,11 @@
 <img src ="https://gpvc.arturio.dev/moinshawon">
 
-<div class="tenor-gif-embed" data-postid="18564553" data-share-method="host" data-aspect-ratio="1.57635" data-width="100%">
-  <a href="https://tenor.com/view/charlie-day-gif-18564553">Charlie Day GIF</a>from <a href="https://tenor.com/search/charlie-gifs">Charlie GIFs</a>
-</div> 
-<script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+![giphy](https://user-images.githubusercontent.com/60796045/141071576-c70b3eae-9eb7-4823-8b1d-58b66787a2c2.gif)
+
 
 <table>
   <tr>
-    <td><img src="https://tenor.com/bmSYT.gif"></td>
+    <td><img src="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW"></td>
     <td>
       <ul>
         <li>Hey there, I am <strong>Tahanima Chowdhury</strong></li>
