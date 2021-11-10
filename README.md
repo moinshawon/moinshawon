@@ -12,8 +12,8 @@
       <h4>Connect with me:</h4>
       <a href="mailto:tahanimachowdhury@gmail.com"><img src="https://img.icons8.com/plasticine/50/000000/gmail-new.png"/></a>
       <a href="https://tahanima.github.io/"><img src="https://img.icons8.com/external-becris-lineal-color-becris/40/4a90e2/external-internet-coding-programming-becris-lineal-color-becris.png"/></a>
-      <a href="https://twitter.com/TahanimaC"><img src="https://img.icons8.com/plasticine/50/000000/twitter.png"/></a>
-      <a href="https://www.linkedin.com/in/tahanima-chowdhury/"><img src="https://img.icons8.com/plasticine/50/000000/linkedin.png"/></a>'
+      <a href="https://twitter.com/TahanimaC"><img src="https://img.icons8.com/windows/45/4a90e2/hackerrank.png"/></a>
+      <a href="https://www.linkedin.com/in/tahanima-chowdhury/"><img src="https://img.icons8.com/plasticine/50/000000/linkedin.png"/></a>
     </td>
     <td><img src="https://github.com/moinshawon/moinshawon/blob/master/giphy.gif" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></td>
   </tr>
