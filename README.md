@@ -8,14 +8,16 @@ I'm a <em>Software QA Engineer</em> at <a href="https://www.enosisbd.com/"> Enos
   
   
   
-## Find me around the web 🌎:  <img align="left" width="150" height="150" src="https://github.com/moinshawon/moinshawon/blob/master/giphy.gif" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen>
-- ere
-- rer
+## Find me around the web 🌎:  <img align="left" width="170" height="170" src="https://github.com/moinshawon/moinshawon/blob/master/giphy.gif" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen>
   <div>
-  <a href="mailto:tahanimachowdhury@gmail.com"><img src="https://img.icons8.com/plasticine/50/000000/gmail-new.png"/></a>
-      <a href="https://tahanima.github.io/"><img src="https://img.icons8.com/external-becris-lineal-color-becris/40/4a90e2/external-internet-coding-programming-becris-lineal-color-becris.png"/></a>
-      <a href="https://twitter.com/TahanimaC"><img src="https://img.icons8.com/windows/45/4a90e2/hackerrank.png"/></a>
-      <a href="https://www.linkedin.com/in/tahanima-chowdhury/"><img src="https://img.icons8.com/plasticine/50/000000/linkedin.png"/></a>
+    • If you are a fresh graduate and want to take preparation to become a QA then, you can follow <a href="https://github.com/moinshawon/Roadmap-of-QA-for-freshers">this</a> repository. </br>
+    • Share any updates, queries, thoughts on <a href="https://www.linkedin.com/in/moinshawon/">Linkedin.</a>
+  </div>
+  <div>
+  <a href="mailto:moin.islamshawon@gmail.com"><img src="https://img.icons8.com/plasticine/50/000000/gmail-new.png"/></a>
+      <a href="https://moinshawon.github.io/"><img src="https://img.icons8.com/external-becris-lineal-color-becris/40/4a90e2/external-internet-coding-programming-becris-lineal-color-becris.png"/></a>
+      <a href="https://www.hackerrank.com/moinshawon?hr_r=1"><img src="https://img.icons8.com/windows/45/4a90e2/hackerrank.png"/></a>
+      <a href="https://www.linkedin.com/in/moinshawon/"><img src="https://img.icons8.com/plasticine/50/000000/linkedin.png"/></a>
   </div>
 
 
