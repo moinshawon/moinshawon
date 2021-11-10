@@ -1,11 +1,7 @@
 <img src ="https://gpvc.arturio.dev/moinshawon">
 
-![giphy](https://user-images.githubusercontent.com/60796045/141071576-c70b3eae-9eb7-4823-8b1d-58b66787a2c2.gif)
-
-
 <table>
   <tr>
-    <td><img src="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW"></td>
     <td>
       <ul>
         <li>Hey there, I am <strong>Tahanima Chowdhury</strong></li>
@@ -19,7 +15,10 @@
       <a href="https://twitter.com/TahanimaC"><img src="https://img.icons8.com/dusk/40/000000/twitter.png"/></a>
       <a href="https://www.linkedin.com/in/tahanima-chowdhury/"><img src="https://img.icons8.com/dusk/40/000000/linkedin.png"/></a>'
     </td>
+    <td><img src="https://github.com/moinshawon/moinshawon/blob/master/giphy.gif" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></td>
   </tr>
+  
+  
   <tr>
     <td align="center" colspan="2">
       <p><i>If you appreciate what I do and are intending to reward me, I'd love to have a cup of coffee from you!</i></p>
