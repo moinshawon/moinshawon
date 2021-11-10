@@ -11,6 +11,7 @@ I'm a <em>Software QA Engineer</em> at <a href="https://www.enosisbd.com/"> Enos
 ## Find me around the web 🌎:  <img align="left" width="170" height="170" src="https://github.com/moinshawon/moinshawon/blob/master/giphy.gif" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen>
   <div>
     • If you are a fresh graduate and want to take preparation to become a QA then, you can follow <a href="https://github.com/moinshawon/Roadmap-of-QA-for-freshers">this</a> repository. </br>
+    • Check my test automation projects <a href="https://github.com/moinshawon/test-automation">here.<a> </br>
     • Share any updates, queries, thoughts on <a href="https://www.linkedin.com/in/moinshawon/">Linkedin.</a>
   </div>
   <div>
