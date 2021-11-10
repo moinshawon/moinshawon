@@ -4,7 +4,7 @@
 
 <img src ="https://komarev.com/ghpvc/?username=moinshawon&color=77b1cd">
 
-I'm a <em>Software QA Engineer</em> at <a href="https://www.enosisbd.com/"> Enosis Solutions</a>. I'm also working as a <em>RA</em> under <a href="https://sites.google.com/view/drjiauddin/research-areas">Jia Uddin<a>, sir. I Have professional skills in Python programming, SQL, test automation, and excellent written & spoken communication abilities. Interested in working in research-based projects in deep learning, neural networks, and image processing fields. Aspiring to develop autonomous solutions for a better world.
+I'm a <em>Software QA Engineer</em> at <a href="https://www.enosisbd.com/"> Enosis Solutions</a>. Also working as a <em>RA</em> under <a href="https://sites.google.com/view/drjiauddin/research-areas">Jia Uddin<a>, sir. I Have professional skills in Python programming, SQL, test automation, and excellent written & spoken communication abilities. Interested in working in research-based projects in deep learning, neural networks, and image processing fields. Aspiring to develop autonomous solutions for a better world.
   
   
   
