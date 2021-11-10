@@ -10,15 +10,14 @@
         <li>If you love solving <a href="https://leetcode.com/">LeetCode</a> problems, don't forget to look into <a href="https://github.com/Tahanima/leetcode-solution-curation">this</a> repository.</li>
       </ul>
       <h4>Connect with me:</h4>
-      <a href="mailto:tahanimachowdhury@gmail.com"><img src="https://img.icons8.com/dusk/40/000000/new-post.png"/></a>
-      <a href="https://tahanima.github.io/"><img src="https://img.icons8.com/dusk/40/000000/internet--v1.png"/></a>
-      <a href="https://twitter.com/TahanimaC"><img src="https://img.icons8.com/dusk/40/000000/twitter.png"/></a>
-      <a href="https://www.linkedin.com/in/tahanima-chowdhury/"><img src="https://img.icons8.com/dusk/40/000000/linkedin.png"/></a>'
+      <a href="mailto:tahanimachowdhury@gmail.com"><img src="https://img.icons8.com/plasticine/50/000000/gmail-new.png"/></a>
+      <a href="https://tahanima.github.io/"><img src="https://img.icons8.com/external-becris-lineal-color-becris/40/4a90e2/external-internet-coding-programming-becris-lineal-color-becris.png"/></a>
+      <a href="https://twitter.com/TahanimaC"><img src="https://img.icons8.com/plasticine/50/000000/twitter.png"/></a>
+      <a href="https://www.linkedin.com/in/tahanima-chowdhury/"><img src="https://img.icons8.com/plasticine/50/000000/linkedin.png"/></a>'
     </td>
     <td><img src="https://github.com/moinshawon/moinshawon/blob/master/giphy.gif" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></td>
   </tr>
-  
-  
+ 
   <tr>
     <td align="center" colspan="2">
       <p><i>If you appreciate what I do and are intending to reward me, I'd love to have a cup of coffee from you!</i></p>
