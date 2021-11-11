@@ -1,6 +1,6 @@
 # Hey there, I'm Moinul 👋🏻 👨🏻‍💻
 
-<img src="https://github.com/moinshawon/moinshawon/blob/master/banner_blue_2.png">
+<img src="https://github.com/moinshawon/moinshawon/blob/master/banner_blue_3.png">
 
 <img src ="https://komarev.com/ghpvc/?username=moinshawon&color=77b1cd">
 
