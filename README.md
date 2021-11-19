@@ -1,4 +1,4 @@
-# Hey there, I'm Moinul 👋🏻 👨🏻‍💻
+# Hey there, I'm Moin 👋🏻 👨🏻‍💻
 
 <img src="https://github.com/moinshawon/moinshawon/blob/master/banner_blue_2.png">
 
