@@ -8,7 +8,7 @@ I'm a <em>Software QA Engineer</em> at <a href="https://www.enosisbd.com/"> Enos
 
 ## Find me around the web 🌐:  <img align="left" width="200" height="170" src="https://github.com/moinshawon/moinshawon/blob/master/good_guy_coding.gif" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen>
   <div>
-    • **Languages and Tools:**  
+    • Languages and Tools: 
     <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
     <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
     <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
