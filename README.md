@@ -1,4 +1,4 @@
-# Hey there, I'm Moin 👋👨‍💻
+# Hey there, I'm Moin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 
 <img src="https://github.com/moinshawon/moinshawon/blob/master/banner_blue_2.png">
 
@@ -8,7 +8,11 @@ I'm a <em>Software QA Engineer</em> at <a href="https://www.enosisbd.com/"> Enos
 
 ## Find me around the web 🌐:  <img align="left" width="200" height="170" src="https://github.com/moinshawon/moinshawon/blob/master/good_guy_coding.gif" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen>
   <div>
-    • If you are a fresh graduate and want to take preparation for QA, you can follow <a href="https://github.com/moinshawon/Roadmap-of-QA-for-freshers">this</a> repository. </br>
+    • **Languages and Tools:**  
+    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> </br>
     • Check my <a href="https://moinshawon.github.io/">personal website<a>, and feel free to give any feedback. </br>
     • Share any updates, queries, thoughts on my <a href="https://www.linkedin.com/in/moinshawon/">Linkedin.</a>
   </div>
