@@ -2,11 +2,11 @@
 
 <img src="https://github.com/moinshawon/moinshawon/blob/master/banner_google_3.png">
 
-<img src ="https://komarev.com/ghpvc/?username=moinshawon&color=77b1cd">
+<img src ="https://komarev.com/ghpvc/?username=moinshawon&color=brightgreen">
 
 I'm a <em>Software QA Engineer</em> at <a href="https://www.enosisbd.com/"> Enosis Solutions</a>. Also working as a <em>RA</em> under professor <a href="https://sites.google.com/view/drjiauddin/research-areas">Jia Uddin<a>, sir. I have professional skills in Python programming, SQL, test automation, and excellent written & spoken communication abilities. Interested in working in research-based projects in deep learning, neural networks, and image processing fields. Aspiring to develop autonomous solutions for a better world.
 
-## Find me around the web:  <img align="left" width="200" height="170" src="https://github.com/moinshawon/moinshawon/blob/master/thinking_and_coding.gif" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen>
+## Find me around the web:  <img align="left" width="210" height="180" src="https://github.com/moinshawon/moinshawon/blob/master/idea_coding.gif" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen>
   <div>
     • Languages and tools: 
     <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
