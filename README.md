@@ -6,7 +6,7 @@
 
 I'm a <em>Software QA Engineer</em> at <a href="https://www.enosisbd.com/"> Enosis Solutions</a>. Also working as a <em>RA</em> under professor <a href="https://sites.google.com/view/drjiauddin/research-areas">Jia Uddin<a>, sir. I have professional skills in Python programming, SQL, test automation, and excellent written & spoken communication abilities. Interested in working in research-based projects in deep learning, neural networks, and image processing fields. Aspiring to develop autonomous solutions for a better world.
 
-## Find me around the web:  <img align="left" width="200" height="170" src="https://github.com/moinshawon/moinshawon/blob/master/serious_coding.gif" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen>
+## Find me around the web:  <img align="left" width="200" height="170" src="https://github.com/moinshawon/moinshawon/blob/master/thinking_and_coding.gif" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen>
   <div>
     • Languages and tools: 
     <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -21,7 +21,6 @@ I'm a <em>Software QA Engineer</em> at <a href="https://www.enosisbd.com/"> Enos
     <a href="https://moinshawon.ml/" target="_blank"><img src="https://img.icons8.com/external-soft-fill-juicy-fish/35/fa314a/external-internet-infographic-elements-soft-fill-soft-fill-juicy-fish.png"/></a>
     <a href="https://www.hackerrank.com/moinshawon?hr_r=1" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/35/26e07f/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-filled-tal-revivo.png"/></a>
     <a href="https://www.linkedin.com/in/moinshawon/" target="_blank"><img src="https://img.icons8.com/doodle/35/4a90e2/linkedin--v2.png"/></a>
-    
   </div>
 
 
