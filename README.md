@@ -2,7 +2,7 @@
 
 <img src="https://github.com/moinshawon/moinshawon/blob/master/banner_google_2.png">
 
-<img src ="https://komarev.com/ghpvc/?username=moinshawon&color=brightgreen">
+![](https://komarev.com/ghpvc/?username=moinshawon&color=orange)
 
 I'm a <em>Software QA Engineer</em> at <a href="https://www.enosisbd.com/"> Enosis Solutions</a>. Also working as a <em>RA</em> under professor <a href="https://sites.google.com/view/drjiauddin/research-areas">Jia Uddin<a>, sir. I have professional skills in Python programming, SQL, test automation, and excellent written & spoken communication abilities. Interested in working in research-based projects in deep learning, neural networks, and image processing fields. Aspiring to develop autonomous solutions for a better world.
 
