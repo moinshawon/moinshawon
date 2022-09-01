@@ -21,7 +21,7 @@ I'm a <em>Software QA Engineer</em> at <a href="https://www.enosisbd.com/"> Enos
  </br>
     • Visit my <a href="https://moinshawon.github.io/">portfolio website<a>, and feel free to give any feedback. </br>
     • Share any updates, queries, or thoughts on my <a href="https://www.linkedin.com/in/moinshawon/">LinkedIn.</a> </br>
-    • Check out my <a href="https://link.springer.com/article/10.1007/s11063-022-11014-1">journal paper</a>. Read the full article <a href="https://rdcu.be/cUwiM">here.</a> It would be appreciated if you cited the article. ❤️
+    • Check out my <a href="https://link.springer.com/article/10.1007/s11063-022-11014-1">journal paper</a>. Read the full article <a href="https://rdcu.be/cUwiM">here.</a> I would appreciate it if you cited the article. ❤️
   </div>
   <div>
     <a href="mailto:moin.islamshawon@gmail.com" target="_blank"><img src="https://img.icons8.com/doodle/40/000000/gmail-new.png"/></a>
