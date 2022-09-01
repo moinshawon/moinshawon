@@ -4,7 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=moinshawon&color=orange)
 
-I'm a <em>Software QA Engineer</em> at <a href="https://www.enosisbd.com/"> Enosis Solutions</a>. I also have an experience as a <em>RA</em> under professor <a href="https://sites.google.com/view/drjiauddin/research-areas">Jia Uddin<a>, sir. I have professional skills in Python programming, SQL, test automation, and excellent written & spoken communication abilities. Interested in working in research-based projects in deep learning, neural networks, and image processing fields. Aspiring to develop autonomous solutions for a better world.
+I'm a <em>Software QA Engineer</em> at <a href="https://www.enosisbd.com/"> Enosis Solutions</a>. I have also worked as an <em>RA</em>. Have professional skills in Python programming, SQL, test automation, and excellent written & spoken communication abilities. Interested in working on research-based projects in the deep learning, neural networks, and image processing fields. Aspiring to develop autonomous solutions for a better world.
 
 ## Find me around the web:  <img align="left" width="210" height="180" src="https://github.com/moinshawon/moinshawon/blob/master/idea_coding.gif" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen>
   <div>
@@ -20,7 +20,8 @@ I'm a <em>Software QA Engineer</em> at <a href="https://www.enosisbd.com/"> Enos
       <a href="https://git-scm.com/" target="_blank">  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a> 
  </br>
     • Check my <a href="https://moinshawon.github.io/">personal website<a>, and feel free to give any feedback. </br>
-    • Share any updates, queries, thoughts on my <a href="https://www.linkedin.com/in/moinshawon/">Linkedin.</a>
+    • Share any updates, queries, thoughts on my <a href="https://www.linkedin.com/in/moinshawon/">Linkedin.</a> </br>
+    • Check my <a href="https://link.springer.com/article/10.1007/s11063-022-11014-1">journal paper</a>. Read the full article <a href="https://rdcu.be/cUwiM">here</a>
   </div>
   <div>
     <a href="mailto:moin.islamshawon@gmail.com" target="_blank"><img src="https://img.icons8.com/doodle/40/000000/gmail-new.png"/></a>
