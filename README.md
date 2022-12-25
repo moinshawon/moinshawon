@@ -6,7 +6,7 @@
 
 I'm a <em>Software QA Engineer</em> at <a href="https://www.enosisbd.com/"> Enosis Solutions</a>. I have also worked as an <em>RA</em>. Have professional skills in Python programming, SQL, test automation, and excellent written & spoken communication abilities. Interested in working on research-based projects in the deep learning, neural networks, and image processing fields. Aspiring to develop autonomous solutions for a better world.
 
-## Find me around the web:  <img align="left" width="210" height="180" src="https://github.com/moinshawon/moinshawon/blob/master/idea_coding.gif" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen>
+<!-- ## Find me around the web:  <img align="left" width="20" height="10" src="https://github.com/moinshawon/moinshawon/blob/master/idea_coding.gif" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen> -->
   <div>
     • Languages and tools: 
     <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/>
